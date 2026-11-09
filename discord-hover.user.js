@@ -6,6 +6,8 @@
 // @author       You
 // @match        https://discord.com/channels/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=discord.com
+// @updateURL    https://raw.githubusercontent.com/karimonkala/userscripts/main/discord-hover.user.js
+// @downloadURL  https://raw.githubusercontent.com/karimonkala/userscripts/main/discord-hover.user.js
 // @grant        none
 // ==/UserScript==
 
