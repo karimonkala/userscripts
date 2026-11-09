@@ -5,6 +5,8 @@
 // @description  Collapse entries that contain "joined a challenge" on Strava, with expand/collapse toggle functionality.
 // @author       You
 // @match        https://www.strava.com/*
+// @updateURL    https://raw.githubusercontent.com/karimonkala/userscripts/main/strava-collapse-challenges.user.js
+// @downloadURL  https://raw.githubusercontent.com/karimonkala/userscripts/main/strava-collapse-challenges.user.js
 // @grant        none
 // ==/UserScript==
 
